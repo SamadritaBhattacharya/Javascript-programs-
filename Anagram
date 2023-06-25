@@ -1,1 +1,6 @@
 This program takes 2 strings as input and checks whether they are anagrams of each other or not .
+Anagram string are those who have same letters, of the same numbers written in puzzled format 
+
+
+eg: bad , dab,dba all are anagrams of each other.
+eg: mom, omm are anagrams 

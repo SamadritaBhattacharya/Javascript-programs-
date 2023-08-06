@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+}
+.guesses{
+
+    background-color: yellow;
+    font-size: 200%;
+    padding: 10px;
+    box-shadow: 3px 3px 6px black;
+    border: 0cqmax;
+}
+#sub:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
